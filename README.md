@@ -6,7 +6,7 @@ For the storage pupose Mongo DB has been used.
 
 <h3>#Deploy Link :</h3>  https://vite-project-sumitnarwal.vercel.app
 <h3>#Tech Stack:</h3>
-HTML | CSS | JavaScript | MERN | Context API
+HTML | CSS | JavaScript | MERN | Context API | JWT Token| Bcrypt
 
 Backend Application Github Repo: https://github.com/Sumitnarwal/brandAndBeyondBackend
 
@@ -29,13 +29,13 @@ Navigate to login screen also provided here for the already existing users.
 <p>Existing user can login using the form.</p>
 ![LoginPage](https://user-images.githubusercontent.com/95931190/185753795-040a2f69-aa56-4090-8433-e3a4343e25f4.png)
 
-<h4>This is the user information screen.</h4>
+<h4>3)This is the user information screen.</h4>
 <p>After successful sign up or login the user will be navigated to this screen.
 If the user is an Admin user, "See all users" will be shown.</p>
 
 ![UserInfo](https://user-images.githubusercontent.com/95931190/185754041-1b2da69a-46ff-4090-babc-5cd463156448.png)
 
-<h4>This is the screen with all list of all the users.Only applicable for admin user.</h4>
+<h4>4)This is the screen with all list of all the users.Only applicable for admin user.</h4>
 <p>List of all the users will be populated in the table.<p>
 ![AllUsers](https://user-images.githubusercontent.com/95931190/185754132-2e050e6b-e6f9-4e7a-8f1e-36eb458507ec.png)
 
