@@ -1,6 +1,6 @@
 # BrandAndBeyond assignment
 
-Hey 👋,I have build a simple web application.This application is a Full_stack application.
+Hey 👋,I have build a web application.This application is a Full_stack application.
 The front-end is based on React and the back-end is based on Node and Express.
 For the storage pupose Mongo DB has been used.
 
@@ -10,11 +10,11 @@ HTML | CSS | JavaScript | MERN | Context API | JWT Token| Bcrypt
 
 Backend Application Github Repo: https://github.com/Sumitnarwal/brandAndBeyondBackend
 
-# Admin user Details:
+<h3> Admin user Details:</h3>
 Email = dhaval@g.com
 Password = dhaval
 
-#General User
+<h3>General User:</h3>
 Email = ankitphogat054@gmail.com
 Password = ankit
 <h2>The website contains 4 Pages. </h2>
